@@ -79,3 +79,7 @@
 * [Support](miscellaneous/support.md)
 * [End user license agreement](miscellaneous/end-user-license-agreement.md)
 * [Nx cloud cookie statement](miscellaneous/nx-cloud-cookie-statement.md)
+
+***
+
+* [test](test.md)
